@@ -63,4 +63,4 @@ do {
     console.log("not a valid choice");
     return;
   }
-} while (input !== "exit");
+} while (input !== "quit");
